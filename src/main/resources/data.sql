@@ -1,0 +1,1 @@
+INSERT INTO users(username, password) VALUES('alex','1234567890')
